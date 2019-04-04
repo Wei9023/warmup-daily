@@ -69,4 +69,3 @@ let newState = {...stuff, cars: [...stuff.cars,'BMW'], people: ['Garfiled',...st
 
 console.log(newState);
 console.log(state);
-
